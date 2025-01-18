@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m passionate about building, learning, and sha
 
 ## 📂 Repositories  
 
-### 1. **[C_LANGUAGES](https://github.com/DhruvinXDev/C_LANGUAGES)**  
+### 1. **[C_LANGUAGES](https://github.com/DhruvinXDev/C-LANGUAGES)**  
    A repository showcasing my C programming journey, including algorithms, data structures, and real-world applications written in C.  
 
 ### 2. **[ESP32_ICT_PRACTICALS](https://github.com/DhruvinXDev/ESP32_ICT_PRACTICALS)**  
