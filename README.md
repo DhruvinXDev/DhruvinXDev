@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvinxdev&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinxdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvinxdev" alt="dhruvinxdev" /></a> </p>
 
 - 🔭 I’m currently working on health app **FitPulse**
 
