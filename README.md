@@ -1,25 +1,45 @@
 <h1 align="center">Hi 👋, I'm Dhruvin Vaghasiya</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dhruvinxdev&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinxdev" /> 
-</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 ---
 
-### 🛠️ About Me:
+
+<br>
+<table style="border: none;" >
+  <tr>
+    <td>
+      
+  ### 🛠️ About Me:
 - 🔭 I’m currently working on a health app: **FitPulse**  
 - 🌱 I’m currently learning: **Web development and app development**  
 - 👯 I’m looking to collaborate on: **IoT projects, smart home systems, and innovative tech solutions**  
 - 💡 Ask me about: **C++, IoT, app development, or tech trends**  
 - 📫 How to reach me: **dhruvinvaghasiya297@gmail.com**  
 - ⚡ Fun fact: I enjoy brainstorming new ideas and creating impactful solutions!  
+      
+    </td>
+    <td>
+      <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </td>
+    
+  </tr>
+</table>
+
+
+
+
 
 ---
 
 ### 🌐 Connect with Me:
-<p align="left">
+<div align ="center" >
+  <table style="border: none;">
+    <tr>
+      <th>
+        <p align="left">
 <a href="https://linkedin.com/in/dhruvin-vaghasiya-58a140298" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvin-vaghasiya-58a140298" height="30" width="40" />
 </a>
@@ -30,11 +50,24 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvinxdev" height="30" width="40" />
 </a>
 </p>
+      </th>
+    </tr>
+  
+</table>
+</div>
+  
+  
+  
+
 
 ---
 
 ### 💻 Languages and Tools:
-<p align="left"> 
+<div align ="center" >
+  <table style="border: none;">
+    <tr>
+      <th>
+        <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -54,6 +87,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+      </th>
+    </tr>
+  
+</table>
+</div>
+
 
 ---
 
