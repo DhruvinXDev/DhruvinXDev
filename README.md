@@ -13,7 +13,7 @@
     <td>
       
   ### 🛠️ About Me:
-- 🔭 I’m currently working on a health app: **FitPulse**  
+- 🔭 I’m currently working on a : **Empowering myself**  
 - 🌱 I’m currently learning: **Web development and app development**  
 - 👯 I’m looking to collaborate on: **IoT projects, smart home systems, and innovative tech solutions**  
 - 💡 Ask me about: **C++, IoT, app development, or tech trends**  
@@ -123,20 +123,21 @@
 - Successfully built and deployed IoT-based systems for home automation.
 - Contributed to multiple open-source projects focused on healthcare solutions.
 - Actively participated in competitive coding challenges on platforms like Hackerrank and LeetCode.
-- Currently spearheading the development of **FitPulse**, a health-focused app.
+- Completed a Smart Home Automation project using ESP32.
 
 ---
 
 ### 🛠️ Current Projects:
-- **FitPulse:** A health tracking app that leverages IoT and mobile technology to improve user well-being.
-- **Smart Home Automation:** A project integrating IoT sensors and smart devices to create an automated home ecosystem.
+- **Personal Growth** : Currently focused on improving my skills and knowledge in various technology domains.
+- **Open Source Contributions** : Actively contributing to community-driven projects.
 
 ---
 
 ### 💡 Fun Projects & Experiments:
-- Created a **Weather Monitoring Dashboard** using ESP32 and real-time data.
-- Developed a **Portfolio Website** showcasing skills and projects with responsive design.
-- Experimented with **AI Chatbots** to provide an interactive Q&A experience.
+- **Smart Home Automation**: Successfully implemented a project integrating IoT sensors and ESP32 to create an automated home ecosystem.
+- Weather Monitoring Dashboard using ESP32 and real-time data.
+- Portfolio Website showcasing skills and projects with responsive design.
+- AI Chatbots experiments to provide an interactive Q&A experience.
 
 ---
 
