@@ -1,0 +1,70 @@
+PS D:\dhruvin> git config --global user.name "DhruvinXDev"
+PS D:\dhruvin> git config --global user.gmail "dhruvinvaghasiya297@gmail.com"
+PS D:\dhruvin> git config --list
+
+git clone link //for clone the repo in the local machine 
+cd // change directory 
+ls // list of file in peresent directory 
+
+git status // for check the status 
+	untracked => for new file 
+	modified => changed
+	staged => file is ready for commit
+	unmodified => unchanged
+
+git add <- file name -> // for add file local
+	git add .   //for add all file
+git commit -m "some message " //for commit file 
+
+git push origin main // for push the file on the github 
+	git push -u origin main // for create the short cut then when we are write git push it automatic push in origin main  
+
+
+mkdir folder_name // to create the folder/ repo
+
+git init // for Initialized empty Git repository in folder
+
+git remote add origin <-github new rapo link-> // to add the repo on github/remote
+git remote -v // for check remote/github
+git remote set-url origin <-github 2nd repo link -> // convert one repo to other 
+
+git branch // to check branch
+git branch -M main // for change the branch to main
+
+
+	work flow
+			LOCAL git 
+			
+			Github repo
+			         |
+			    Clone
+			         |
+			   Change
+			         |
+			      Add
+			         |
+			  Commit 
+			         |
+			      Push
+
+git checkout <- 2nd branch name ->
+git checkout -b <new branch name ->
+git checkout -d < delete the branch ->
+
+git diff <- 2nd branch name -> // for compare two branch
+git merge <- 2nd branch name -> // for merge two branch
+git pull origin main //fetch and download content form remote to local
+
+git reset filename // for reset one file witch are after add means staged
+git reset // for reset all the file witch are after add means staged
+
+get reset HEAD~1 // for go back one in after the commit 
+
+get log // for view all the commit's 
+
+get reset <- hash of the commit -> // only change status on commit and go back for many changes
+get reset --hard <-hash of the commit -> // for change the file also 
+
+
+
+
