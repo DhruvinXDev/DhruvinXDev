@@ -66,5 +66,8 @@ get reset <- hash of the commit -> // only change status on commit and go back f
 get reset --hard <-hash of the commit -> // for change the file also 
 
 
+git checkout HEAD~1 -- . //reset all the file/commit in the last commit
+
+
 
 
