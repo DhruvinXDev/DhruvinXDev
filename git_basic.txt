@@ -49,7 +49,7 @@ git branch -M main // for change the branch to main
 
 git checkout <- 2nd branch name ->
 git checkout -b <new branch name ->
-git checkout -d < delete the branch ->
+git branch -d < delete the branch ->
 
 git diff <- 2nd branch name -> // for compare two branch
 git merge <- 2nd branch name -> // for merge two branch
