@@ -68,6 +68,11 @@ get reset --hard <-hash of the commit -> // for change the file also
 
 git checkout HEAD~1 -- . //reset all the file/commit in the last commit
 
+//remove all the exe file
+git rm --cached *.exe
+git add .gitignore
+git commit -m "Updated .gitignore to ignore .exe files"
+git push origin main 
 
 
 
