@@ -75,4 +75,4 @@ git commit -m "Updated .gitignore to ignore .exe files"
 git push origin main 
 
 
-
+git checkout HEAD -- . // if clone file are not come in computer
