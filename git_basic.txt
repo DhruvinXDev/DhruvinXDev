@@ -6,6 +6,7 @@ git clone link //for clone the repo in the local machine
 cd // change directory 
 ls // list of file in peresent directory 
 
+
 git status // for check the status 
 	untracked => for new file 
 	modified => changed
