@@ -14,10 +14,10 @@
       
   ### 🛠️ About Me:
 - 🔭 I’m currently working on a : **Empowering myself**  
-- 🌱 I’m currently learning: **Web development and app development**  
-- 👯 I’m looking to collaborate on: **IoT projects, smart home systems, and innovative tech solutions**  
-- 💡 Ask me about: **C++, IoT, app development, or tech trends**  
-- 📫 How to reach me: **dhruvinvaghasiya297@gmail.com**  
+- 🌱 I’m currently learning: **Web development and Machine Learning**  
+- 👯 I’m looking to collaborate on: **IoT projects**  
+- 💡 Ask me about: **C++, IoT Projects ( Smart Home Systems, Electronic Voting Machine )**  
+- 📫 How to reach me: <a href="mailto:dhruvinvaghasiya297@gmail.com"> Email </a>
 - ⚡ Fun fact: I enjoy brainstorming new ideas and creating impactful solutions!  
       
     </td>
@@ -120,25 +120,23 @@
 
 
 ### 🏆 Achievements:
-- Successfully built and deployed IoT-based systems for home automation.
-- Contributed to multiple open-source projects focused on healthcare solutions.
+- Successfully built  IoT-based systems for home automation and Electronic Voting Machine.
 - Actively participated in competitive coding challenges on platforms like Hackerrank and LeetCode.
-- Completed a Smart Home Automation project using ESP32.
+- Completed a Smart Home Automation and Electronic Voting Machine project using ESP32.
+- Thrilled to share that I secured 3rd position in the C Language Hackathon at my university! Grateful for the recognition and a cash prize of ₹5000. A proud moment and a great motivation to keep coding!
 
 ---
 
 ### 🛠️ Current Projects:
 - **Personal Growth** : Currently focused on improving my skills and knowledge in various technology domains.
-- **Open Source Contributions** : Actively contributing to community-driven projects.
 
 ---
 
 ### 💡 Fun Projects & Experiments:
 - **Smart Home Automation**: Successfully implemented a project integrating IoT sensors and ESP32 to create an automated home ecosystem.
-- Weather Monitoring Dashboard using ESP32 and real-time data.
+- **Electronic Voting Machine**: Successfully implemented a project integrating RFID , Button and ESP32 to create an Dashbord of voting machine and real time data.
 - Portfolio Website showcasing skills and projects with responsive design.
-- AI Chatbots experiments to provide an interactive Q&A experience.
 
 ---
 
-Feel free to connect, collaborate, or follow my journey as I innovate and learn! 🚀
+Feel free to connect, or follow my journey as I innovate and learn! 🚀
