@@ -113,12 +113,7 @@
 
 #### 📊 GitHub Stats
 <pre align="center">
-  <table> 
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinxdev&theme=radical" alt="Top Languages" /></td> 
-      <td><img src="https://github-readme-stats.vercel.app/api?username=dhruvinxdev&theme=radical" alt="GitHub Stats" /></td> 
-    </tr> 
-  </table> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvinxdev&theme=radical" alt="Top Languages" />         <img src="https://github-readme-stats.vercel.app/api?username=dhruvinxdev&theme=radical" alt="GitHub Stats" />
 </pre>
 
 ---
